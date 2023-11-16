@@ -1,5 +1,5 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
-	Title = "MYN HUB", -- Required
+	Title = "NEXTIX HUB", -- Required
 	Text = "FINDING SERVER!", -- Required
 	Icon = "" -- Optional
 })
